@@ -7,4 +7,5 @@ export default defineConfig({
     tailwindcss(),
     react()
   ],
+  base: '/CodeAlpha_Spotify-clone/'
 })
