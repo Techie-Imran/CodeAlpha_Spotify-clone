@@ -1,5 +1,63 @@
 # React + Vite
 
+# 🎧 Spotify Clone – CodeAlpha Internship Project
+
+A responsive and interactive **Spotify Clone** built with **React**, **Vite**, and **Tailwind CSS** as part of my internship task at [CodeAlpha](https://www.codealpha.tech/). This app mimics a music streaming interface with functional audio playback and a sleek UI.
+
+---
+
+## 🔗 Live Demo
+
+👉 [Click here to view the live project](https://Techie-Imran.github.io/CodeAlpha_Spotify-clone)
+
+---
+
+## 📁 Project Structure
+
+spotify-clone/
+├── public/
+├── src/
+│ ├── assets/ # Images and audio files
+│ ├── components/ # Reusable UI components
+│ ├── pages/ # Page-level components
+│ ├── App.jsx
+│ └── main.jsx
+├── index.html
+├── vite.config.js
+└── package.json
+
+---
+
+## 🚀 Features
+
+- 🎵 Display of albums/songs with album cover
+- ▶️ Audio player integration for each track
+- 📱 Fully responsive layout
+- 🌐 Deployed using GitHub Pages
+- 🧩 Component-based architecture with React
+
+---
+
+## ⚙️ Technologies Used
+
+- **React** – for building UI components
+- **Vite** – fast development server and build tool
+- **Tailwind CSS** – for styling
+- **React Router DOM** – for page navigation
+- **gh-pages** – to deploy the site on GitHub Pages
+
+---
+
+🙌 Acknowledgements
+Thanks to CodeAlpha for the opportunity and guidance through the internship!
+
+🙋‍♂️ About the Author
+Mohamed Imran
+Frontend Developer Intern at CodeAlpha
+🔗 LinkedIn: www.linkedin.com/in/mohamed-imran06 
+✨ GitHub: @Techie-Imran
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
